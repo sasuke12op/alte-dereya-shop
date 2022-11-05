@@ -321,7 +321,7 @@ body{
 #sm-banner button{
     background: none;
     border: 1px solid #e3e6f3;
-    color: white;
+    color: #fff;
     padding: 10px 22px;
     transition: 0.3s ease;
 }
