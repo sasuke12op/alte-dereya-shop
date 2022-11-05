@@ -329,3 +329,6 @@ body{
     background: #088178;
     border: 1px solid #088178;
 }
+#sm-banner .banner-box-2{
+    background-image: url("img/shirt.jpg");
+}
